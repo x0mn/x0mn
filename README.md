@@ -1,8 +1,6 @@
-## Hi there, I am Muneeb 👋
+## Hi there, I am binu
 
-I'm a Computer Science student at the Memorial University of Newfoundland (Class of 2026).
-
-- I'm literally just a vibe coder at this point...
+⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
 
 <!--
 **b1inu/b1inu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
