@@ -12,7 +12,7 @@
 
 <br>
 
-# Hi there
+# <img src="wave.gif" width="30px"> Hi there
 
 My name is Muneeb Mennad, an undergraduate student at Memorial University of Newfoundland 🇨🇦 pursuing a BSc in Computer Science, specialized in Smart Systems.
 
