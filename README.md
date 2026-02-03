@@ -14,7 +14,7 @@
 
 # <img src="wave.gif" width="30px"> Hi there
 
-My name is Muneeb Mennad, an undergraduate student at Memorial University of Newfoundland 🇨🇦 pursuing a BSc in Computer Science, specialized in Smart Systems.
+My name is Muneeb Mennad, and I am an undergraduate student at Memorial University of Newfoundland 🇨🇦 pursuing a BSc in Computer Science, specializing in Smart Systems.
 
 🖥️ My interests lie in Cybersecurity, Embedded Systems, and Robotics.
 
