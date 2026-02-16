@@ -27,6 +27,6 @@ I’m currently working on a terminal password manager.
 # Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,kali,bash,powershell,python,c,rust,golang,lua,mysql,bash,neovim,git,github,docker" />
+    <img src="https://skillicons.dev/icons?i=linux,kali,bash,powershell,python,c,rust,golang,lua,mysql,bash,neovim,git,docker" />
   </a>
 </p>
