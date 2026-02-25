@@ -33,8 +33,8 @@ I am an undergraduate student pursuing a BSc in Computer Science<br><br>I am int
 
 #### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mnbmnd&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
--->
 ---
 [![](https://visitcount.itsvg.in/api?id=mnbmnd&icon=5&color=6)](https://visitcount.itsvg.in)
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
