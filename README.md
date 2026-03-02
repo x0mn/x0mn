@@ -19,7 +19,7 @@ I am an undergraduate student pursuing a BSc in Computer Science<br><br>I am int
 -->
 Things I am working on:
 - TUI password manager
-- Homelab
+- My setup/Homelab
 
 
 ### 🌐 Socials
