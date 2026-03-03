@@ -1,10 +1,10 @@
 <!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=mnbmnd&label=Profile%20views&color=0e75b6&style=flat" alt="mnbmnd" /> </p> -->
 
-<!-- <h1 style="text-align: center;">
+<h1 style="text-align: center;">
   <a href="https://git.io/typing-svg" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Muneeb+Mennad" alt="Title GitHub Readme" />
   </a>
-</h1> -->
+</h1>
 
 [![Website](https://img.shields.io/badge/Website-mnbmnd.com-informational?style=flat-square&color=00ADB5&logo=about.me&logoColor=white)](https://vercel.com/pchstpchs-projects/v0-personal-portfolio-website)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-muneebmennad-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muneebmennad)
